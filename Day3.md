@@ -4,11 +4,11 @@
 
 2. if(x>3): print "True" else: print "False",若 x=2，则该段代码的执行结果是?
 
-3. if(x>5): print "True" elif x>0 and x<5 print "False" else: print "Error", 若是想要输出“False”，则 x 可以取哪些整数?
+3. if(x>5): print "True" elif x>0 and x<5 print "False" else: print "Error", 若是想要输出"False"，则 x 可以取哪些整数?
 
-4. x=0，if x:print “False”else:print “True”，该段代码的输出结果是?
+4. x=0，if x:print "False"else:print "True"，该段代码的输出结果是?
 
-5. x=0，y=1, if x and y:print “False”elif x or y:print “True”，该段代码的输出结果是?
+5. x=0，y=1, if x and y:print "False" elif x or y:print "True"，该段代码的输出结果是?
 
 6. x=0, if not x: print "True" else: print "False",该段代码的输出结果是?
 
@@ -26,7 +26,7 @@
 
 13. while 语句执行的流程是怎样的?
 
-14. error =0，1 while error:print“hello”2while (not 1): print "hello", 两个代码块的执行结果分别是什么?为什么产生这种结果?
+14. error =0，1 while error:print"hello" 2 while (not 1): print "hello", 两个代码块的执行结果分别是什么?为什么产生这种结果?
 
 15. x=[3,1,6,5,19,2,4], y=[], i=0, while(x[i]<10): y.append(x[i]) print(y), i +=1, y 的最终输出结果是?
 

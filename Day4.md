@@ -14,7 +14,7 @@
 
 7. a=[1,2,3,4,5], b=[], for i in range(len(a)): b.append(a[i]) print(b), 请使用列表推导式修改上述代码，实现和其相同的功能。
 
-8. s = [x+2 for x in range(10) if x % 2 == 0 else x + 1], print(s)的结果是?
+8. s = [x+2 if x % 2 == 0 else x + 1 for x in range(10)], print(s)的结果是?
 
 9. s = [x+2 for x in range(10) if x % 2 == 0]，请调整代码结构，将 else x+1放到合适的位置并输出 s。
 

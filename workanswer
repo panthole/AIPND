@@ -20,7 +20,7 @@ for data in dataset:
 任务3. 生成好友个性签名词云图
 
 ### TODO：打印出第2条签名
-print(dataset['1']['Signature'])
+print(dataset[1]['Signature'])
 
 任务4. 对好友签名进行情感分析
 

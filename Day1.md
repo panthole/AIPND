@@ -29,3 +29,5 @@
 14. 逻辑运算符主要有哪些?分别在什么情况下整个表达式结果为 True?
 
 15. string1='I'm a student.' print(string1)结果会报错么?如何修改 string1 使其得到正确的输出?
+
+16. a = 3, str(a*3) + str(a)*3 的输出是什么？

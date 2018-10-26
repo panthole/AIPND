@@ -22,7 +22,14 @@
 
 11. cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou'] ， for i in range(len(cities)-1): print(cities[i])的输出结果是?
 
-12. cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou']，city=[], for i in range(len(cities)): city.__________ ,请在空白处填写合适的代码，利用cities 中的元素创建一个 city 列表。
+12. 
+```
+cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou']
+city=[]
+for i in range(len(cities)): 
+  city.__________ 
+```
+,请在空白处填写合适的代码，利用cities 中的元素创建一个 city 列表。
 
 13. while 语句执行的流程是怎样的?
 

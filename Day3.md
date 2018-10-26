@@ -20,21 +20,34 @@
 
 10. L=[1,2,3,4,5], list[range(len(L))]的结果是?
 
-11. cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou'] ， for i in range(len(cities)-1): print(cities[i])的输出结果是?
+11. print(cities[i])的输出结果是?
+```
+cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou'] 
+for i in range(len(cities)-1): 
+	print(cities[i])
+```
 
-12. 
+12. 请在空白处填写合适的代码，利用cities 中的元素创建一个 city 列表。
 ```
 cities = ['Beijing', 'Shanghai', 'Shenzhen', 'Guangzhou']
 city=[]
 for i in range(len(cities)): 
   city.__________ 
 ```
-,请在空白处填写合适的代码，利用cities 中的元素创建一个 city 列表。
 
 13. while 语句执行的流程是怎样的?
 
 14. error =0，1 while error:print("hello") 2while (not 1): print("hello"), 两个代码块的执行结果分别是什么?为什么产生这种结果?
 
-15. x=[3,1,6,5,19,2,4], y=[], i=0, while(x[i]<10): y.append(x[i]) print(y), i +=1, y 的最终输出结果是?
+15. y 的最终输出结果是?
+```
+x=[3,1,6,5,19,2,4]
+y=[]
+i=0
+while(x[i]<10): 
+  y.append(x[i]) 
+  print(y)
+  i +=1
+```
 
 16. if-else语句执行的流程是怎样的?

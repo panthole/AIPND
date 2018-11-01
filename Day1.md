@@ -31,3 +31,7 @@
 15. string1='I'm a student.' print(string1)结果会报错么?如何修改 string1 使其得到正确的输出?
 
 16. a = 3, str(a*3) + str(a)*3 的输出是什么？
+
+17. a,b = 4,5, a*=b, print(a)输出多少?
+
+18. a=25, b='25',如何查看变量a和b的类型？它们分别是什么类型？

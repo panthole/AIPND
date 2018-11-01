@@ -51,3 +51,7 @@ while(x[i]<10):
 ```
 
 16. if-else语句执行的流程是怎样的?
+
+17. 请用代码计算 1 +3 +5...+99+101
+
+18. 请倒叙打印 ['Beijing','Shanghai','Shenzhen'，‘Guangzhou’]

@@ -49,7 +49,7 @@
  * dict={'a':1,'b':2}, dict.keys(),dict.values()
 
 17. my_set={1,2,4}可以从中取出第二个值吗？为什么？
- * set (my_list）
+ * 不可以取出，集合元素具有无序性
  
 18. my_list={1,2,3,4,12,18}快速找出my_list中不重复的元素
  * set (my_list）

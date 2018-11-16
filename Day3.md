@@ -18,7 +18,7 @@
 
 9. print(list(range(1,12,3)))的结果是?
 
-10. L=[1,2,3,4,5], list[range(len(L))]的结果是?
+10. L=[1,2,3,4,5], list(range(len(L)))的结果是?
 
 11. print(cities[i])的输出结果是?
 ```
